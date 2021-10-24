@@ -10,6 +10,7 @@ title: "new page"
 <br>
 <br>
 <br>
+<span style="color:blue">some *This is Blue italic.* text</span>
 <br>
 <br>
 <br>
