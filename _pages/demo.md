@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 permalink: /demo/
 title: "new page"
 ---
