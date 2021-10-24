@@ -14,7 +14,7 @@ title: "new page"
 <br>
 <br>
 <br>
-# how will this look in the blog. can i make it work nicely integrated like a website? {style=text-align:center}
+<h1 align="center">Title 1</h1>
 <br>
 <br>
 <br>
