@@ -28,7 +28,30 @@ h1 {
   margin-right: auto;
   margin-top: 1.5em;
   margin-top: calc(50vh - 1em);
+  margin-bottom: -1em;
 }
+
+ul {
+  list-style: none;
+  display: flex;
+  text-align: left;
+}
+
+a {
+  font-weight: 600;
+  font-size: 20px;
+  display: inline-block;
+  color: #3d3b37;
+  cursor: pointer;
+  text-decoration: underline 0.15em rgba(61, 59, 55, 0);
+  transition: text-decoration-color 300ms;
+  padding-right: 1em;
+}
+
+.content-btn:hover {
+  text-decoration-color: rgba(61, 59, 55, 1);
+}
+
 
 
 /* Style the rainbow text element. */
@@ -62,7 +85,7 @@ h1 {
   /* This animates it on page load and when hovering out. */
   animation: rainbow-text-animation-rev 0.5s ease forwards;
 
-  
+  cursor: none;
 }
 
 /* Add animation on hover. */
@@ -92,7 +115,7 @@ h1 {
 @keyframes rainbow-text-animation-rev {
   0% {
     background-size: 300%;
-    background-position: -10em 1em;
+    background-position: -9em 1em;
   }
   20% {
     background-size: 57%;
@@ -113,5 +136,10 @@ h1 {
 
 <h1 class="rainbow-text">Nora Hernández<h1>
   
-  [About](/demo/){: .btn}   [Yt](https://www.youtube.com/watch?v=bOQWIm4nkfs){: .btn}
+  <ul>
+    <li><a class="content-btn" href="/_pages/about.md">About</p></li>
+    <li><a class="content-btn" href="/_pages/blog.md">Blog</p></li>
+    <li><a class="content-btn" href="/_pages/demo.md">Resume</p></li>
+    <li><a class="content-btn" href="/_pages/404.md">Contact</p></li>
+  </ul>
   
