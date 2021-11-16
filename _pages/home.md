@@ -1,13 +1,13 @@
 ---
 title: Home
 permalink: /home/
-layout: splash
+layout: home
 classes:
   - landing
   - dark-theme
 ---
 
-<!DOCTYPE html>
+
 <html lang='en' class=''>
 
 <head>
@@ -119,9 +119,4 @@ h1 {
 
 <h1 class="rainbow-text">Sarah L. Fossheim<h1>
   
-  
-<script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
-  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-7a53c215-6dc6-8bd4-e2c2-a1ffebf9b3f4" crossorigin></script>
-</body>
 
-</html>
