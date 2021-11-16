@@ -1,13 +1,11 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "Posts"
-    url: https://www.youtube.com/watch?v=pZdaTrkKOp4
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
-  - title: "Demo"
-    url: /demo/
+  - title: "Blog"
+    url: /blog/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact/
