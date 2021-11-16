@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My new blog
-email:
+title: In the mood for blog
+email: nora@noraphl.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Esto es más como un diario personal, pero tal vez a alguien más le interese lo que digo. Qué puedes encontrar aquí> mis nuevas experiencias, comida, música, películas, y uno que otro rant.
+twitter_username: alt64paty
+github_username: noraphl
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -59,36 +57,30 @@ plugins:
 
 author:
   name   : "Nora Hernandez"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/profile_88x88.jpg"
+  bio    : "Recién llegada a Hong Kong. Recién llegada al doctorado. Recién llegada a escribir blogs."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "Letterboxd"
+      icon: "fa-solid fa-film"
+      url: "https://letterboxd.com/alt64Paty/"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/noraphl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/alt64paty/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: ""
+      icon: "fa-solid fa-film"
+      url: "https://letterboxd.com/alt64Paty/"
+    - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/noraphl"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Letterboxd"
-      icon: "fa fa-film"
-      url: "https://letterboxd.com/"
+      url: "https://www.instagram.com/alt64paty/"
 
 defaults:
   # _posts
