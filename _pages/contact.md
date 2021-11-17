@@ -25,10 +25,10 @@ Si te interesa algo sobre lo qué escribí o te gustaría trabajar juntos en alg
 
 
 ----
-<span style="size:10pt">
+<span style="font-size:10pt; font-style:italic">
   I'd love to hear about you. We can connect in [Twitter](https://twitter.com/alt64paty){:target="_black"}, though I rarely post something there.
   
-  If you are interested in something I wrote about or would like to work together on a project, do not hesitate to send me an email directly to [nora@noraphl.me](mailto:nora@noraphl.me) or fill out the form below with your comments . I read everything and I really appreciate the time you put in reaching out to me. Rest assured that I will respond as soon as possible.
+  If you are interested in something I wrote about or would like to work together on a project, do not hesitate to send me an email directly to [nora@noraphl.me](mailto:nora@noraphl.me) or fill out the form below with your comments . I read everything and really appreciate the time you put in reaching out to me. Rest assured that I will reply as soon as possible.
 </span>
   
 ----
@@ -39,12 +39,12 @@ Si te interesa algo sobre lo qué escribí o te gustaría trabajar juntos en alg
 >
   <label>
     Email:
-    <input type="email" name="_replyto">
+    <input type="email" name="_replyto" required>
   </label>
   <label>
     Mensaje / Message:
-    <textarea name="message"></textarea>
+    <textarea name="message" required></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button class="btn">Enviar/Send<i class="fa-solid fa-paper-plane"></i> </button>
+  <button class="btn">Enviar/Send <i class="fas fa-fw fa-paper-plane"></i> </button>
 </form>
