@@ -21,15 +21,15 @@ title: "Contacto"
 
 Me encantaría escuchar sobre tí. Podemos conectar en [Twitter](https://twitter.com/alt64paty){:target="_black"}, aunque no suelo publicar mucho ahí.
 
-Si te interesa algo sobre lo qué escribí o te gustaría trabajar juntos en algún proyecto, no dudes en enviarme un email directamente a [nora@noraphl.me](mailto:nora@noraphl.me) o llenar el formulario de abajo con tus comentarios. Leo todo y agradezco mucho el tiempo que tomaste para escribirme. Ten por seguro que responderé lo más pronto posible.
+Si te interesa algo sobre lo qué escribí o te gustaría trabajar juntos en algún proyecto, no dudes en enviarme un email directamente a [nora@noraphl.me](mailto:nora@noraphl.me) o llenar el formulario de abajo con tus comentarios. Leo todo y agradezco mucho el tiempo que tomaste para escribirme. Ten por seguro que responderé lo más pronto posible 😄.
 
 
 ----
-<span style="font-size:10pt; font-style:italic">
+<span style="font-size:12pt; font-style:italic">
   I'd love to hear about you. We can connect in [Twitter](https://twitter.com/alt64paty){:target="_black"}, though I rarely post something there.
-  
-  If you are interested in something I wrote about or would like to work together on a project, do not hesitate to send me an email directly to [nora@noraphl.me](mailto:nora@noraphl.me) or fill out the form below with your comments . I read everything and really appreciate the time you put in reaching out to me. Rest assured that I will reply as soon as possible.
-</span>
+<span style="font-size:12pt; font-style:italic">
+  If you are interested in something I wrote about or would like to work together on a project, do not hesitate to send me an email directly to [nora@noraphl.me](mailto:nora@noraphl.me) or fill out the form below with your comments . I read everything and really appreciate the time you put in reaching out to me. Rest assured that I will reply as soon as possible 😄.
+
   
 ----
 
