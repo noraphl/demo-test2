@@ -56,12 +56,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nora Hernandez"
+  name   : "Nora Hernández"
   avatar : "/assets/images/profile_88x88.jpg"
   bio    : "Recién llegada a Hong Kong. Recién llegada al doctorado. Recién llegada a escribir blogs."
   links:
     - label: "Letterboxd"
-      icon: "fa-solid fa-film"
+      icon: "fab fa-solid fa-film"
       url: "https://letterboxd.com/alt64Paty/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
