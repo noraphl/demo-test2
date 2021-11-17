@@ -61,7 +61,7 @@ author:
   bio    : "Recién llegada a Hong Kong. Recién llegada al doctorado. Recién llegada a escribir blogs."
   links:
     - label: "Letterboxd"
-      icon: "fab fa-solid fa-film"
+      icon: "fas fa-fw fa-film"
       url: "https://letterboxd.com/alt64Paty/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fa-solid fa-film"
+      icon: "fas fa-fw fa-film"
       url: "https://letterboxd.com/alt64Paty/"
     - label: ""
       icon: "fab fa-fw fa-github"
