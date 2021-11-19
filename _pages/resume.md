@@ -62,7 +62,9 @@ También soy fluida en R, Python, Matlab, Weka, Git, y LaTex 💚. Además de lo
 * [Escritura Creativa: El arte de la trama](https://coursera.org/share/b8595b2cafd47c59a2b82fc0649ff58d){:target="_blank"}
 * [Análisis de datos de COVID19 en Python](https://coursera.org/share/ee5a9fa7e4bd9c719ac3842177089556){:target="_blank"}
 * [El lenguage de Hollywood: Narración, sonido y color](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/973630~5595501/pdf){:target="_blank"}
-
+<br>
+<br>
+<br>
 # In English 
 
 <span style="font-size:12pt; font-style:italic">
@@ -70,12 +72,13 @@ También soy fluida en R, Python, Matlab, Weka, Git, y LaTex 💚. Además de lo
 
 #### Education
 
-	<ul style="font-size:12pt; font-style:italic">
-		<li> 2021-present: Doctor of Philosophy - Faculty of Education, The University of Hong Kong. </li>
+	
+		<li style="font-size:12pt; font-style:italic"> 2021-present: Doctor of Philosophy - Faculty of Education, The University of Hong Kong. </li>
 		<ul>
-			<li>Under supervision of <a href="https://web.edu.hku.hk/faculty-academics/xiaoxhu" target="_blank">Dr. Xiao Hu</a></li>
-			<li> Research project on artificial intelligence education and data literacy, supported through STEAM education with an emphasis on music, for highschool students </li>
+			<li style="font-size:12pt; font-style:italic">Under supervision of <a href="https://web.edu.hku.hk/faculty-academics/xiaoxhu" target="_blank">Dr. Xiao Hu</a></li>
+			<li style="font-size:12pt; font-style:italic"> Research project on artificial intelligence education and data literacy, supported through STEAM education with an emphasis on music, for highschool students </li>
 		</ul>
+	
 		<li> 2018-2020: Master of Science - Computer Science, Tecnologico de Monterrey, Campus Estado de Mexico. </li>
 		<ul> 
 			<li>Under supervision of <a href="https://research.tec.mx/vivo-tec/display/PID_20804" target="_blank">Dr. Jorge Adolfo Ramirez Uresti</a> </li>
