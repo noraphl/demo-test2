@@ -65,21 +65,17 @@ También soy fluida en R, Python, Matlab, Weka, Git, y LaTex 💚. Además de lo
 <br>
 <br>
 <br>
+
 # In English 
 
 <span style="font-size:12pt; font-style:italic">
   If you're looking for the PDF English version, you can download it [here ⏬](/assets/files/2020_NoraHernandez_English.pdf).
 
 #### Education
-
-	
-		<li style="font-size:12pt; font-style:italic"> 2021-present: Doctor of Philosophy - Faculty of Education, The University of Hong Kong. </li>
-		<ul>
-			<li style="font-size:12pt; font-style:italic">Under supervision of <a href="https://web.edu.hku.hk/faculty-academics/xiaoxhu" target="_blank">Dr. Xiao Hu</a></li>
-			<li style="font-size:12pt; font-style:italic"> Research project on artificial intelligence education and data literacy, supported through STEAM education with an emphasis on music, for highschool students </li>
-		</ul>
-	
-		<li> 2018-2020: Master of Science - Computer Science, Tecnologico de Monterrey, Campus Estado de Mexico. </li>
+	<li style="font-size:12pt; font-style:italic"> 2021-present: Doctor of Philosophy - Faculty of Education, The University of Hong Kong. </li>
+		<li style="font-size:12pt; font-style:italic">Under supervision of <a href="https://web.edu.hku.hk/faculty-academics/xiaoxhu" target="_blank">Dr. Xiao Hu</a></li>
+		<li style="font-size:12pt; font-style:italic"> Research project on artificial intelligence education and data literacy, supported through STEAM education with an emphasis on music, for highschool students </li>
+	<li> 2018-2020: Master of Science - Computer Science, Tecnologico de Monterrey, Campus Estado de Mexico. </li>
 		<ul> 
 			<li>Under supervision of <a href="https://research.tec.mx/vivo-tec/display/PID_20804" target="_blank">Dr. Jorge Adolfo Ramirez Uresti</a> </li>
 			<li>Thesis on context-based recommender systems. I developed a model that combines expert knowledge and data from real users using Bayesian networks to offer personalized recommendations. </li>
@@ -88,7 +84,6 @@ También soy fluida en R, Python, Matlab, Weka, Git, y LaTex 💚. Además de lo
 		<ul> <li>Project on design of wirtual learning environments. </li> </ul>
 		<li> 2011-2016: Bachelor's of Engineering - Mechatronics Engineering, Tecnologico de Monterrey, Campus Puebla. </li>
 		<ul> <li>Capstone project on capacitive sensors as security measure for automated industrial environments .</li> </ul>
-	    </ul>
   
 #### Publications
  
