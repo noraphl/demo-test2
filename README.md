@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme starter
+# New look and blog
 
 Adapted from [**Minimal Mistakes starter**](https://github.com/mmistakes/mm-github-pages-starter/generate) 
 
